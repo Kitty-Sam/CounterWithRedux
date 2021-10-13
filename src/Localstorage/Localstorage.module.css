@@ -1,0 +1,35 @@
+.localstorage {
+    border: 3px solid #ec7575;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 30%;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.locbtn, .localinp {
+
+    width: 80%;
+    /*height: 100px;*/
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    border: 3px solid coral;
+    margin: 30px 0px;
+    background-color: wheat;
+
+}
+
+.localinp {
+    font-family: "Arial Black";
+    font-size: 15px;
+    display: block;
+}
+
+
+.inp {
+    margin: 5px;
+;
+}
